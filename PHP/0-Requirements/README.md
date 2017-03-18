@@ -1,8 +1,5 @@
 # Installation
-## Python
-```
-$ sudo apt install python3-pymongo
-```
+
 ## PHP
 ```
 $ sudo apt-get install -y autoconf g++ make openssl libssl-dev
